@@ -1,13 +1,13 @@
-Select the sound to be edited.
+Dewisa'r sŵn i'w olygu.
 
-Choose a starting position for your edited sound on the sound wave then left-click and hold. Drag your mouse pointer to the new end position for your sound and release. You will see a highlighted area on the sound wave.
+Dewisa fan cychwyn ar y donfedd ar gyfer y sŵn rwyt ti wedi'i olygu wedyn clicia'r botwm chwith a'i ddal. Llusga bwyntydd y llygoden i'r safle gorffen newydd ar gyfer dy sŵn ac yna gollwng y botwm. Bydd darn wedi'i amlygu yn ymddangos ar y donfedd sain.
 
-If you are using a tablet using your mouse or finger to tap and drag over the sound wave.
+Os wyt ti'n defnyddio tabled, defnyddia'r llygoden neu dy fys i dapio a llusgo dros y donfedd sain.
 
-![The sound wave in the Sound editor with the middle section highlighted.](images/trim-sound.png)
+![Y donfedd sain yn y Golygydd Sain gyda'r adran ganol wedi'i hamlygu.](images/trim-sound.png)
 
-Use the sound editor tools to Copy, Copy to New, Paste or Delete the highlighted section of the sound.
+Defnyddia'r offer yn y Golygydd Sain i Gopïo, Copïo o'r Newydd, Gludo neu Ddileu'r adran wedi'i hamlygu.
 
-![The editor tools highlighted with the new sound wave showing section has been deleted.](images/deleted-sound.png)
+![Yr offer golygu ar y donfedd sain newydd gyda'r adran wedi'i hamlygu wedi'i dileu.](images/deleted-sound.png)
 
-**Tip:** You can use the Undo tool to reverse any changes you are not happy with. 
+**Awgrym:** Galli di ddefnyddio'r teclyn Dad-wneud i newid yn ôl unrhyw newidiadau os nad wyt ti'n hapus â nhw. 
