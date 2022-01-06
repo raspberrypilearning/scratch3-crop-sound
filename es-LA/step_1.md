@@ -1,13 +1,13 @@
-Select the sound to be edited.
+Selecciona el sonido a editar.
 
-Choose a starting position for your edited sound on the sound wave then left-click and hold. Drag your mouse pointer to the new end position for your sound and release. You will see a highlighted area on the sound wave.
+Elige una posición inicial para tu sonido editado en la onda de sonido, luego haz clic izquierdo y mantén presionado. Arrastra el puntero del ratón a la nueva posición final para tu sonido y suéltalo. Verás un área resaltada en la onda de sonido.
 
-If you are using a tablet using your mouse or finger to tap and drag over the sound wave.
+Si estás usando una tableta, usa el dedo para tocar y arrastrar sobre la onda de sonido.
 
-![The sound wave in the Sound editor with the middle section highlighted.](images/trim-sound.png)
+![La onda de sonido en el Editor de sonidos con la sección central resaltada.](images/trim-sound.png)
 
-Use the sound editor tools to Copy, Copy to New, Paste or Delete the highlighted section of the sound.
+Usa las herramientas del Editor de sonidos para Copiar, Copiar a uno nuevo, Pegar o Eliminar la sección resaltada del sonido.
 
-![The editor tools highlighted with the new sound wave showing section has been deleted.](images/deleted-sound.png)
+![Las herramientas del editor resaltadas con la nueva onda de sonido que muestra que la sección ha sido eliminada.](images/deleted-sound.png)
 
-**Tip:** You can use the Undo tool to reverse any changes you are not happy with. 
+**Sugerencia:** Puedes usar la herramienta Deshacer para revertir cualquier cambio que no te satisfaga. 
