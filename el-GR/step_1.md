@@ -1,12 +1,12 @@
-Select the sound to be edited.
+Επίλεξε τον ήχο που θέλεις να επεξεργαστείς.
 
-Choose a starting position for your edited sound on the sound wave then left-click and hold. Drag your mouse pointer to the new end position for your sound and release. You will see a highlighted area on the sound wave.
+Επίλεξε μια αρχική θέση για τον ήχο που θα επεξεργαστείς στο ηχητικό κύμα και, στη συνέχεια, κάνε αριστερό κλικ και κράτα το πατημένο. Σύρε το δείκτη του ποντικιού σου στη νέα τελική θέση για τον ήχο σου και άφησέ το. Θα δεις μια τονισμένη περιοχή στο ηχητικό κύμα.
 
-If you are using a tablet using your mouse or finger to tap and drag over the sound wave.
+Εάν χρησιμοποιείς tablet χρησιμοποίησε το ποντίκι ή το δάχτυλό σου για να αγγίξεις και να σύρεις πάνω στο ηχητικό κύμα.
 
-![The sound wave in the Sound editor with the middle section highlighted.](images/trim-sound.png)
+![Το ηχητικό κύμα στο πρόγραμμα επεξεργασίας ήχου με τονισμένο το μεσαίο τμήμα.](images/trim-sound.png)
 
-Use the sound editor tools to Copy, Copy to New, Paste or Delete the highlighted section of the sound.
+Χρησιμοποίησε τα εργαλεία επεξεργασίας ήχου για Αντιγραφή, Αντιγραφή σε Νέο, Επικόλληση ή Διαγραφή του επιλεγμένου τμήματος του ήχου.
 
 ![The editor tools highlighted with the new sound wave showing section has been deleted.](images/deleted-sound.png)
 
