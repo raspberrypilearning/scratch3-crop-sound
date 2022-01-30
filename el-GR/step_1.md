@@ -8,6 +8,6 @@
 
 Χρησιμοποίησε τα εργαλεία επεξεργασίας ήχου για Αντιγραφή, Αντιγραφή σε Νέο, Επικόλληση ή Διαγραφή του επιλεγμένου τμήματος του ήχου.
 
-![The editor tools highlighted with the new sound wave showing section has been deleted.](images/deleted-sound.png)
+![Επισημαίνονται τα εργαλεία επεξεργασίας ενώ το τμήμα του ηχητικού κύματος έχει διαγραφεί.](images/deleted-sound.png)
 
-**Tip:** You can use the Undo tool to reverse any changes you are not happy with. 
+**Συμβουλή:** Μπορείς να χρησιμοποιήσεις το εργαλείο «Αναίρεση» για να αντιστρέψεις τυχόν αλλαγές με τις οποίες δεν είσαι ικανοποιημένος/η. 
