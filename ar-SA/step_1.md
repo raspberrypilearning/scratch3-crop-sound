@@ -1,6 +1,6 @@
-Select the sound to be edited.
+حدد الصوت المراد تحريره.
 
-Choose a starting position for your edited sound on the sound wave then left-click and hold. Drag your mouse pointer to the new end position for your sound and release. You will see a highlighted area on the sound wave.
+اختر موقع بدء الصوت الخاص بك الذي تريد تحريره على الموجة الصوتية ثم انقر بزر الماوس الأيسر مع الاستمرار. Drag your mouse pointer to the new end position for your sound and release. You will see a highlighted area on the sound wave.
 
 If you are using a tablet using your mouse or finger to tap and drag over the sound wave.
 
