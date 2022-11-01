@@ -1,13 +1,13 @@
-Select the sound to be edited.
+Вибери звук, який потрібно відредагувати.
 
-Choose a starting position for your edited sound on the sound wave then left-click and hold. Drag your mouse pointer to the new end position for your sound and release. You will see a highlighted area on the sound wave.
+Вибери початкову позицію на звуковій хвилі та клацни лівою кнопкою миші й утримуй її. Перетягни курсор миші до нового кінцевого положення звукової доріжки і відпусти його. Ти побачиш на звуковій хвилі виділену ділянку.
 
-If you are using a tablet using your mouse or finger to tap and drag over the sound wave.
+Якщо ти використовуєш планшет, торкнись звукової хвилі за допомогою миші або пальця і перетягни її.
 
-![The sound wave in the Sound editor with the middle section highlighted.](images/trim-sound.png)
+![Звукова хвиля в Редакторі звуків з виділеною ділянкою посередині.](images/trim-sound.png)
 
-Use the sound editor tools to Copy, Copy to New, Paste or Delete the highlighted section of the sound.
+Використовуй інструменти звукового редактора «Копія», «Копіювати до нового», «Вставити» або «Вилучити», щоб редагувати виділений фрагмент звукової доріжки.
 
-![The editor tools highlighted with the new sound wave showing section has been deleted.](images/deleted-sound.png)
+![Виділені інструменти редактора та показана нова звукова хвиля з позначенням видаленого фрагмента.](images/deleted-sound.png)
 
-**Tip:** You can use the Undo tool to reverse any changes you are not happy with. 
+**Порада:** ти можеш скористатися інструментом «Скасувати», щоб відмінити будь-які зміни, які тебе не влаштовують. 
