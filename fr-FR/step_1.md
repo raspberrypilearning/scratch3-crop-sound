@@ -1,4 +1,4 @@
-Sélectionner le son à éditer.
+Sélectionne le son à éditer.
 
 Choisis une position de départ pour ton son édité sur l'onde sonore, puis fais un clic gauche et maintiens. Fais glisser le pointeur de ta souris vers la nouvelle position finale de ton son et relâche. Tu verras une zone en surbrillance sur l'onde sonore.
 
