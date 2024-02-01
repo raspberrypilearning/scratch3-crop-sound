@@ -1,13 +1,13 @@
-Select the sound to be edited.
+編集する音を選択します。
 
-Choose a starting position for your edited sound on the sound wave then left-click and hold. Drag your mouse pointer to the new end position for your sound and release. You will see a highlighted area on the sound wave.
+編集する音の音波の上で開始位置を選択して左クリックを押し続けます。 マウスポインターを音の新しい終了位置までドラッグして放します。 音波上で領域がハイライトされているのがわかります。
 
-If you are using a tablet using your mouse or finger to tap and drag over the sound wave.
+タブレットを使用している場合は、マウスまたは指を使用して音波上をタップしてドラッグします。
 
-![The sound wave in the Sound editor with the middle section highlighted.](images/trim-sound.png)
+![中央部分がハイライトされたサウンドエディターの音波。](images/trim-sound.png)
 
-Use the sound editor tools to Copy, Copy to New, Paste or Delete the highlighted section of the sound.
+サウンドエディターツールを使用すると、音のハイライトされた部分をコピー、音をコピー、貼り付け、または削除できます。
 
-![The editor tools highlighted with the new sound wave showing section has been deleted.](images/deleted-sound.png)
+![一部が削除された新しい音波とハイライトされたエディターのツール。](images/deleted-sound.png)
 
-**Tip:** You can use the Undo tool to reverse any changes you are not happy with. 
+**ヒント:** 元に戻すツールを使用すると、うまく行かなかった変更を元に戻すことができます。 
